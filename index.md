@@ -4,7 +4,7 @@
 
 ### General Analytics Projects
 
-#### [Internal Blog Post Project](/sample_project)
+#### Why the New York Mets' offense is a big problem heading into the playoffs
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 This project 
 
