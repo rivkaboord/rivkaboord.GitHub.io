@@ -6,7 +6,8 @@
 
 #### Why the New York Mets' offense is a big problem heading into the playoffs
 <img src="images/Mets-Pete-Alonso-Francisco-Lindor.jpg"/>
-This project 
+
+
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
