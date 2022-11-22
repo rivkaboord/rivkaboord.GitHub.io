@@ -1,5 +1,5 @@
 title: Rivka Boord # your name (or website title) here
-logo: "https://github.com/rivkaboord/rivkaboord.Github.io/blob/master/images/Rivka_Boord.jpg" # your photo (or logo) here
+logo: "/images/Rivka_Boord.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data = power.
   <br><br>
