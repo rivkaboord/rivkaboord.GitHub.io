@@ -2,7 +2,7 @@
 
 ---
 
-### General Analytics Projects
+### Sports Analytics Projects
 
 #### [Why the New York Mets' offense is a big problem heading into the playoffs](/files/Why the Mets' offense is a big problem heading into the playoffs.docx)
 <img src="images/Mets-Pete-Alonso-Francisco-Lindor.jpg"/>
@@ -13,7 +13,7 @@ You can find the code that I used to generate the data [here](/files/mets_2022_r
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more.
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
