@@ -11,8 +11,8 @@ As the New York Mets neared the 2022 playoff push, I explored their offensive st
 You can find the code that I used to generate the data [here](/files/mets_2022_runs_scored.R).
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
+#### [How EPA and DVOA correlate with winning](/files/pass_rush_rankings_epa.R)
+<img src="images/dvoa_2021_rush_pass.png"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more.
 
 ---
