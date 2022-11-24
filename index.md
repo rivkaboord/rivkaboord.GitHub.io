@@ -8,6 +8,7 @@
 <img src="images/Mets-Pete-Alonso-Francisco-Lindor.jpg"/>
 As the New York Mets neared the 2022 playoff push, I explored their offensive struggles and how they might cause the team issues heading into October.
 
+You can find the code that I used to generate the data [here](/files/mets_2022_runs_scored.R).
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
