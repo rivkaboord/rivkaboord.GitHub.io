@@ -4,7 +4,7 @@
 
 ### General Analytics Projects
 
-#### [Linked File Project](/files/Why the Mets' offense is a big problem heading into the playoffs.docx) Why the New York Mets' offense is a big problem heading into the playoffs
+#### [(/files/Why the Mets' offense is a big problem heading into the playoffs.docx)]
 <img src="images/Mets-Pete-Alonso-Francisco-Lindor.jpg"/>
 
 
