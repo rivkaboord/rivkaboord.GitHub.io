@@ -16,10 +16,9 @@ You can find the code that I used to generate the data [here](/files/mets_2022_r
 I explored Expected Points Added and Defense-adjusted Value Over Average as useful analytics in predicting wins and future production.
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
+#### [External Link Project](/files/nfl_draft_20_21_av.R)
+[<img src="images/nfl_draft.jpg"/)
+How NFL teams have drafted during this millennium.
 ---
 
 ### Category Name 2
