@@ -1,8 +1,10 @@
 title: Rivka Boord # your name (or website title) here
 logo: "/images/Rivka Boord.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
   Data = power.
   <br>
-  Sports. Law. Writing. Mom of two. <br>
+  Sports. Law. Writing. Mom of two.
+  <br>
   <a href="https://www.linkedin.com/in/rivkaboord/">View My LinkedIn Profile</a>
 theme: jekyll-theme-minimal
