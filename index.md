@@ -21,9 +21,9 @@ I explored Expected Points Added and Defense-adjusted Value Over Average as usef
 
 ---
 
-### Category Name 2
+### General Analytics Projects
 
-- [Project 1 Title](http://example.com/)
+- [Bikeshop Data Exploration and Recommendations](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
