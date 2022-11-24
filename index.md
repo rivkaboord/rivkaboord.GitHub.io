@@ -11,9 +11,9 @@ As the New York Mets neared the 2022 playoff push, I explored their offensive st
 You can find the code that I used to generate the data [here](/files/mets_2022_runs_scored.R).
 
 ---
-#### [How EPA and DVOA correlate with winning](/files/pass_rush_rankings_epa.R)
+#### [How EPA and DVOA correlate with winning in the NFL](/files/pass_rush_rankings_epa.R)
 <img src="images/dvoa_2021_rush_pass.png"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more.
+I explored Expected Points Added and Defense-adjusted Value Over Average as useful analytics in predicting wins and future production.
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
