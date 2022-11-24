@@ -16,9 +16,9 @@ You can find the code that I used to generate the data [here](/files/mets_2022_r
 I explored Expected Points Added and Defense-adjusted Value Over Average as useful analytics in predicting wins and future production.
 
 ---
-#### [External Link Project](/files/nfl_draft_20_21_av.R)
-[<img src="images/nfl_draft.jpg"/)
-How NFL teams have drafted during this millennium.
+#### [How NFL teams have drafted during this millennium](/files/nfl_draft_20_21_av.R)
+<img src="images/nfl_draft.jpg"/>
+
 ---
 
 ### Category Name 2
