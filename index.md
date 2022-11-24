@@ -4,9 +4,9 @@
 
 ### General Analytics Projects
 
-#### [(/files/Why the Mets' offense is a big problem heading into the playoffs.docx)]Why the Mets' offense is a big problem heading into the playoffs
+#### [Linked File Project)](/files/Why the Mets' offense is a big problem heading into the playoffs.docx)
 <img src="images/Mets-Pete-Alonso-Francisco-Lindor.jpg"/>
-
+As the New York Mets neared the 2022 playoff push, I explored their offensive struggles and how they might cause the team issues heading into October.
 
 
 ---
