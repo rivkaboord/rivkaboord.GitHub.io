@@ -27,14 +27,9 @@ I explored Expected Points Added and Defense-adjusted Value Over Average as usef
 
 ### General Analytics Projects
 
-- [Bikeshop Data Exploration and Recommendations](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+#### [Bikeshop Data Exploration and Recommendations](/files/03_sales_report.pdf)
+<img src="bikes.jpg"/>
+
+I took bikeshop data regarding sales of different types of bikes and generated a report. [Here](/files/03_sales_report.Rmd) is the code used to generate the report.
 
 ---
-
-
-
-
