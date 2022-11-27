@@ -4,6 +4,10 @@
 
 ### Sports Analytics Projects
 
+#### [The numbers prove that Zach Wilson's chances of turning around are minuscule](https://jetsxfactor.com/2022/10/31/ny-jets-concern-qb-position/)
+<img src="/images/Zach Wilson.jpg"/>
+Following the New York Jets' first loss to the New England Patriots this season, 22-17, I went back into NFL history from the last 20 years to explore what the data says about Zach Wilson's long-term prospects. The answer was grim, and it is bearing out in the fact that he was benched before completing his second season as the former No. 2 overall pick.
+
 #### [Why the New York Mets' offense is a big problem heading into the playoffs](/files/Why the Mets' offense is a big problem heading into the playoffs.docx)
 <img src="images/Mets-Pete-Alonso-Francisco-Lindor.jpg"/>
 As the New York Mets neared the 2022 playoff push, I explored their offensive struggles and how they might cause the team issues heading into October.<br>
