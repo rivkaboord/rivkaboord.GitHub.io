@@ -10,6 +10,7 @@ Following the New York Jets' first loss to the New England Patriots this season,
 
 #### [Does Zach Wilson's height affect him as a quarterback?](https://jetsxfactor.com/2022/11/03/zach-wilson-height-struggles/)
 <img src="/images/Zach Wilson height.jpg"/>
+There is a perception among some New York Jets fans that Zach Wilson's height makes it more difficult for him to succeed as an NFL quarterback. I decided to look back at both the numbers and the history of previous quarterbacks of a similar height to explore whether the claim has any merit.
 
 #### [Why the New York Mets' offense is a big problem heading into the playoffs](/files/Why the Mets' offense is a big problem heading into the playoffs.docx)
 <img src="images/Mets-Pete-Alonso-Francisco-Lindor.jpg"/>
