@@ -5,4 +5,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   Sports. Law. Writing. Mom of two.<br>
   <a href="https://www.linkedin.com/in/rivkaboord/">View My LinkedIn Profile</a>
 
-markdown: kramdown
+theme: jekyll_minimalist
