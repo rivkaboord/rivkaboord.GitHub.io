@@ -23,7 +23,7 @@ As the New York Mets neared the 2022 playoff push, I explored their offensive st
 You can find the code that I used to generate the data [here](/files/mets_2022_runs_scored.R).
 
 #### [The New York Jets' play-calling was predictable in Week 14 loss to Bills](https://jetsxfactor.com/2022/12/13/lafleur-play-calling-predictable/)
-<img src="images/dvoa_2021_rush_pass.png"/>
+<img src="images/Mike LaFleur.png"/>
 Using a metric called XPASS, I examined the Jets' play-calling tendencies in their 20-12 loss to the Bills and explained how the predictability directly contributed to their defeat.
 
 ---
