@@ -30,6 +30,10 @@ Using a metric called XPASS, I examined the Jets' play-calling tendencies in the
 
 ### General Analytics Projects
 
+#### [HR Employee Attrition Reduction]
+<img src="images/employee attrition.png"/>
+I wrote and built custom functions and models in R to assess the main drivers behind employee attrition and implemented a personalized plan to promote retention, which saved a company $15 million.
+
 #### [Bikeshop Data Exploration and Recommendations](/files/03_sales_report.pdf)
 <img src="images/bikes.jpg"/>
 I took bikeshop data regarding sales of different types of bikes and generated a report. [Here](/files/03_sales_report.Rmd) is the code used to generate the report.
