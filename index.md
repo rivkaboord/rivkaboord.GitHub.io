@@ -2,6 +2,18 @@
 
 ---
 
+### General Analytics Projects
+
+#### [HR Employee Attrition Reduction]
+<img src="images/employee attrition.png"/>
+I wrote and built custom functions and models in R to assess the main drivers behind employee attrition and implemented a personalized plan to promote retention, which saved a company $15 million.
+
+#### [Bikeshop Data Exploration and Recommendations](/files/03_sales_report.pdf)
+<img src="images/bikes.jpg"/>
+I took bikeshop data regarding sales of different types of bikes and generated a report. [Here](/files/03_sales_report.Rmd) is the code used to generate the report.
+
+---
+
 ### Sports Analytics Projects
 
 #### [The numbers prove that Zach Wilson's chances of turning around are minuscule](https://jetsxfactor.com/2022/10/31/ny-jets-concern-qb-position/)
@@ -25,17 +37,5 @@ You can find the code that I used to generate the data [here](/files/mets_2022_r
 #### [The New York Jets' play-calling was predictable in Week 14 loss to Bills](https://jetsxfactor.com/2022/12/13/lafleur-play-calling-predictable/)
 <img src="images/Mike LaFleur.png"/>
 Using a metric called XPASS, I examined the Jets' play-calling tendencies in their 20-12 loss to the Bills and explained how the predictability directly contributed to their defeat.
-
----
-
-### General Analytics Projects
-
-#### [HR Employee Attrition Reduction]
-<img src="images/employee attrition.png"/>
-I wrote and built custom functions and models in R to assess the main drivers behind employee attrition and implemented a personalized plan to promote retention, which saved a company $15 million.
-
-#### [Bikeshop Data Exploration and Recommendations](/files/03_sales_report.pdf)
-<img src="images/bikes.jpg"/>
-I took bikeshop data regarding sales of different types of bikes and generated a report. [Here](/files/03_sales_report.Rmd) is the code used to generate the report.
 
 ---
