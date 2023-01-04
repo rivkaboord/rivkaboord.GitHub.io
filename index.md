@@ -20,6 +20,8 @@ I took bikeshop data regarding sales of different types of bikes and generated a
 <img src="/images/mlb_draft_photo.jpeg"/>
 In the NFL, draft picks are considered valuable commodities, especially first-round picks. I examined whether that is the case using WAR and All-Star Game data and drew some conclusions about prospects, as well. [Here](/files/Importing draft picks.R/) is the code I wrote to generate my insights.
 
+---
+
 #### [The numbers prove that Zach Wilson's chances of turning around are minuscule](https://jetsxfactor.com/2022/10/31/ny-jets-concern-qb-position/)
 <img src="/images/Zach Wilson.jpg"/>
 Following the New York Jets' first loss to the New England Patriots this season, 22-17, I went back into NFL history from the last 20 years to explore what the data says about Zach Wilson's long-term prospects. The answer was grim, and it is bearing out in the fact that he was benched before completing his second season as the former No. 2 overall pick.
