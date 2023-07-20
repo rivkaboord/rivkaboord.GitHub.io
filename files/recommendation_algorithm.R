@@ -9,23 +9,23 @@ library(tidyquant)
 library(recipes)    # Make sure v0.1.3 or laters is installed. If not restart & install.packages("recipes") to update.
 
 # Data
-path_train            <- "../Documents/Programming and Data Science/R/HR_201_Employee_Attrition_Project/00_Data/telco_train.xlsx"
-path_test             <- "../Documents/Programming and Data Science/R/HR_201_Employee_Attrition_Project/00_Data/telco_test.xlsx"
-path_data_definitions <- "../Documents/Programming and Data Science/R/HR_201_Employee_Attrition_Project/00_Data/telco_data_definitions.xlsx"
+path_train            <- "https://github.com/rivkaboord/rivkaboord.Github.io/blob/master/files/telco_train.xlsx"
+path_test             <- "https://github.com/rivkaboord/rivkaboord.Github.io/blob/master/files/telco_test.xlsx"
+path_data_definitions <- "https://github.com/rivkaboord/rivkaboord.Github.io/blob/master/files/telco_data_definitions.xlsx"
 
 train_raw_tbl       <- read_excel(path_train, sheet = 1)
 test_raw_tbl        <- read_excel(path_test, sheet = 1)
 definitions_raw_tbl <- read_excel(path_data_definitions, sheet = 1, col_names = FALSE)
 
 # Processing Pipeline
-source("../Documents/Programming and Data Science/R/HR_201_Employee_Attrition_Project/00_Scripts/data_processing_pipeline.R")
+source("https://github.com/rivkaboord/rivkaboord.Github.io/blob/master/files/data_processing_pipeline.R")
 train_readable_tbl <- process_hr_data_readable(train_raw_tbl, definitions_raw_tbl)
 test_readable_tbl  <- process_hr_data_readable(test_raw_tbl, definitions_raw_tbl)
 
 
 
 # 2.0 Correlation Analysis - Machine Readable ----
-source("../Documents/Programming and Data Science/R/HR_201_Employee_Attrition_Project/00_Scripts/plot_cor.R")
+source("https://github.com/rivkaboord/rivkaboord.Github.io/blob/master/files/plot_cor.R")
 
 # 2.1 Recipes ----
 
