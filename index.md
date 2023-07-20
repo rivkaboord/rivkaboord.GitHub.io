@@ -4,7 +4,7 @@
 
 ### General Analytics Projects
 
-#### [HR Employee Attrition Reduction]
+#### [HR Employee Attrition Reduction](/files/recommendation_algorithm.R)
 <img src="images/employee attrition.png"/>
 I wrote and built custom functions and models in R to assess the main drivers behind employee attrition and implemented a personalized plan to promote retention, which saved a company $15 million.
 
