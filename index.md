@@ -25,6 +25,7 @@ This murder mystery starts with just three pieces of information: the type of cr
 
 #### [What is a first-round pick worth in baseball?](https://www.linkedin.com/pulse/what-first-round-pick-worth-baseball-rivka-boord/?trackingId=8t9eQ3RsTnmPsBwoZj282g%3D%3D)
 <img src="/images/mlb_draft_photo.jpeg"/>
+
 In the NFL, draft picks are considered valuable commodities, especially first-round picks. I examined whether that is the case using WAR and All-Star Game data and drew some conclusions about prospects, as well. [Here](/files/Importing draft picks.R/) is the code I wrote to generate my insights.
 
 ---
