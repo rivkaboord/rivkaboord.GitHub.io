@@ -17,8 +17,7 @@ I utilized SQL to analyze healthcare data and answer hospital management's quest
 I took bikeshop data regarding sales of different types of bikes and generated a report. [Here](/files/03_sales_report.Rmd) is the code used to generate the report.
 
 #### [SQL Murder Mystery](https://www.linkedin.com/pulse/sql-murder-mystery-rivka-boord-cnrpe%3FtrackingId=DEeRLntbVN65NCoeyb6ZuA%253D%253D/?trackingId=DEeRLntbVN65NCoeyb6ZuA%3D%3D)
-<img src="images/sql_murder_mystery.png"/>
-
+<img src="images/sql_murder_mystery.png">
 This murder mystery starts with just three pieces of information: the type of crime—murder—and the date and location. Using optimized SQL queries, I found out who the murderer was—and who hired him.
 ---
 
