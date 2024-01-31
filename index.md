@@ -31,11 +31,11 @@ In the NFL, draft picks are considered valuable commodities, especially first-ro
 
 #### [The numbers prove that Zach Wilson's chances of turning around are minuscule](https://jetsxfactor.com/2022/10/31/ny-jets-concern-qb-position/)
 <img src="/images/Zach Wilson.jpg"/>
-Following the New York Jets' first loss to the New England Patriots this season, 22-17, I went back into NFL history from the last 20 years to explore what the data says about Zach Wilson's long-term prospects. The answer was grim, and it is bearing out in the fact that he was benched before completing his second season as the former No. 2 overall pick.
+Following the New York Jets' first loss to the New England Patriots in 2022, 22-17, I went back into NFL history from the last 20 years to explore what the data says about Zach Wilson's long-term prospects. The answer was grim, and it bore out in the fact that he was benched before completing his second season as the former No. 2 overall pick.
 
 #### [Does Zach Wilson's height affect him as a quarterback?](https://jetsxfactor.com/2022/11/03/zach-wilson-height-struggles/)
 <img src="/images/Zach Wilson height.jpg"/>
-There is a perception among some New York Jets fans that Zach Wilson's height makes it more difficult for him to succeed as an NFL quarterback. I decided to look back at both the numbers and the history of previous quarterbacks of a similar height to explore whether the claim has any merit.
+There was a perception among some New York Jets fans that Zach Wilson's height made it more difficult for him to succeed as an NFL quarterback. I decided to look back at both the numbers and the history of previous quarterbacks of a similar height to explore whether the claim had any merit.
 
 #### [How Mike LaFleur can improve his play-calling in 2022](https://jetsxfactor.com/2022/07/18/how-can-ny-jets-mike-lafleur-improve-play-calling-2022/)
 <img src="/images/LaFleur Carter.jpg"/>
@@ -49,6 +49,6 @@ You can find the code that I used to generate the data [here](/files/mets_2022_r
 
 #### [The New York Jets' play-calling was predictable in 2022 Week 14 loss to Bills](https://jetsxfactor.com/2022/12/13/lafleur-play-calling-predictable/)
 <img src="images/Mike LaFleur.png"/>
-Using a metric called XPASS, I examined the Jets' play-calling tendencies in their 20-12 loss to the Bills and explained how the predictability directly contributed to their defeat.
+Using a metric called XPASS, I examined the Jets' play-calling tendencies in their 20-12 loss to the Bills from 2022 and explained how the predictability directly contributed to their defeat.
 
 ---
