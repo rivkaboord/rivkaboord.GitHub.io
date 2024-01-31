@@ -9,6 +9,7 @@
 I wrote and built custom functions and models in R to assess the main drivers behind employee attrition and implemented a personalized plan to promote retention, which saved a company $15 million.
 
 #### [SQL Healthcare Analysis](https://www.linkedin.com/pulse/sql-healthcare-analysis-rivka-boord-kvxwe%3FtrackingId=QQIF58k%252FcaRDaG4jL69LvQ%253D%253D/?trackingId=QQIF58k%2FcaRDaG4jL69LvQ%3D%3D)
+<img src="images/Healthcare_data.jpg"/>
 I utilized SQL to analyze healthcare data and answer hospital management's questions.
 
 #### [Bikeshop Data Exploration and Recommendations](/files/03_sales_report.pdf)
