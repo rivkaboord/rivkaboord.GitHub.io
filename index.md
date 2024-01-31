@@ -16,6 +16,8 @@ I utilized SQL to analyze healthcare data and answer hospital management's quest
 <img src="images/bikes.jpg"/>
 I took bikeshop data regarding sales of different types of bikes and generated a report. [Here](/files/03_sales_report.Rmd) is the code used to generate the report.
 
+#### [SQL Murder Mystery](https://www.linkedin.com/pulse/sql-murder-mystery-rivka-boord-cnrpe%3FtrackingId=DEeRLntbVN65NCoeyb6ZuA%253D%253D/?trackingId=DEeRLntbVN65NCoeyb6ZuA%3D%3D)
+
 ---
 
 ### Sports Analytics Projects
@@ -44,7 +46,7 @@ As the New York Mets neared the 2022 playoff push, I explored their offensive st
 
 You can find the code that I used to generate the data [here](/files/mets_2022_runs_scored.R).
 
-#### [The New York Jets' play-calling was predictable in Week 14 loss to Bills](https://jetsxfactor.com/2022/12/13/lafleur-play-calling-predictable/)
+#### [The New York Jets' play-calling was predictable in 2022 Week 14 loss to Bills](https://jetsxfactor.com/2022/12/13/lafleur-play-calling-predictable/)
 <img src="images/Mike LaFleur.png"/>
 Using a metric called XPASS, I examined the Jets' play-calling tendencies in their 20-12 loss to the Bills and explained how the predictability directly contributed to their defeat.
 
