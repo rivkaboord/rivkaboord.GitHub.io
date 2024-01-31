@@ -4,21 +4,21 @@
 
 ## General Analytics Projects
 
-### [HR Employee Attrition Reduction](/files/recommendation_algorithm.R)
-<img src="images/employee attrition.png"/>
-I wrote and built custom functions and models in R to assess the main drivers behind employee attrition and implemented a personalized plan to promote retention, which saved a company $15 million.
-
 ### [SQL Healthcare Analysis](https://www.linkedin.com/pulse/sql-healthcare-analysis-rivka-boord-kvxwe%3FtrackingId=QQIF58k%252FcaRDaG4jL69LvQ%253D%253D/?trackingId=QQIF58k%2FcaRDaG4jL69LvQ%3D%3D)
 <img src="images/Healthcare_data.jpg"/>
 I utilized SQL to analyze healthcare data and answer hospital management's questions.
+
+### [SQL Murder Mystery](https://www.linkedin.com/pulse/sql-murder-mystery-rivka-boord-cnrpe%3FtrackingId=DEeRLntbVN65NCoeyb6ZuA%253D%253D/?trackingId=DEeRLntbVN65NCoeyb6ZuA%3D%3D)
+<img src="images/sql_murder_mystery.png">
+This murder mystery starts with just three pieces of information: the type of crime—murder—and the date and location. Using optimized SQL queries, I found out who the murderer was—and who hired him.
 
 ### [Bikeshop Data Exploration and Recommendations](/files/03_sales_report.pdf)
 <img src="images/bikes.jpg"/>
 I took bikeshop data regarding sales of different types of bikes and generated a report. [Here](/files/03_sales_report.Rmd) is the code used to generate the report.
 
-### [SQL Murder Mystery](https://www.linkedin.com/pulse/sql-murder-mystery-rivka-boord-cnrpe%3FtrackingId=DEeRLntbVN65NCoeyb6ZuA%253D%253D/?trackingId=DEeRLntbVN65NCoeyb6ZuA%3D%3D)
-<img src="images/sql_murder_mystery.png">
-This murder mystery starts with just three pieces of information: the type of crime—murder—and the date and location. Using optimized SQL queries, I found out who the murderer was—and who hired him.
+### [HR Employee Attrition Reduction](/files/recommendation_algorithm.R)
+<img src="images/employee attrition.png"/>
+I wrote and built custom functions and models in R to assess the main drivers behind employee attrition and implemented a personalized plan to promote retention, which saved a company $15 million.
 ---
 
 ## Sports Analytics Projects
