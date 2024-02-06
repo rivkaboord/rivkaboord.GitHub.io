@@ -16,9 +16,6 @@ This murder mystery starts with just three pieces of information: the type of cr
 <img src="images/bikes.jpg"/>
 I took bikeshop data regarding sales of different types of bikes and generated a report. [Here](/files/03_sales_report.Rmd) is the code used to generate the report.
 
-### [HR Employee Attrition Reduction](/files/recommendation_algorithm.R)
-<img src="images/employee attrition.png"/>
-I wrote and built custom functions and models in R to assess the main drivers behind employee attrition and implemented a personalized plan to promote retention, which saved a company $15 million.
 ---
 
 ## Sports Analytics Projects
