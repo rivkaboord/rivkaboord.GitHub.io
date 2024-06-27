@@ -12,6 +12,8 @@ I utilized SQL to analyze healthcare data and answer hospital management's quest
 <img src="images/sql_murder_mystery.png">
 This murder mystery starts with just three pieces of information: the type of crime—murder—and the date and location. Using optimized SQL queries, I found out who the murderer was—and who hired him.
 
+### [Massachusetts Education Overview in Tableau](/files/masachusetts_education_overview.pptx)
+
 ### [Bikeshop Data Exploration and Recommendations](/files/03_sales_report.pdf)
 <img src="images/bikes.jpg"/>
 I took bikeshop data regarding sales of different types of bikes and generated a report. [Here](/files/03_sales_report.Rmd) is the code used to generate the report.
