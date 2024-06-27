@@ -13,6 +13,8 @@ I utilized SQL to analyze healthcare data and answer hospital management's quest
 This murder mystery starts with just three pieces of information: the type of crime—murder—and the date and location. Using optimized SQL queries, I found out who the murderer was—and who hired him.
 
 ### [Massachusetts Education Overview in Tableau](/files/masachusetts_education_overview.pptx)
+<img src='images/masachusetts_education_project.jpeg">
+The Massachusetts Board of Education has a lot of data available about its schools and districts, but they also need answers to specific questions. I used Tableau to create a dashboard answering those key questions visually.
 
 ### [Bikeshop Data Exploration and Recommendations](/files/03_sales_report.pdf)
 <img src="images/bikes.jpg"/>
