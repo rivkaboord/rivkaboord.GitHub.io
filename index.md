@@ -30,6 +30,12 @@ In the NFL, draft picks are considered valuable commodities, especially first-ro
 
 ---
 
+### [NBA Scoring Breakdown in Tableau](/files/nba_tableau_project.twb)
+<img src="images/C3OvG4WpQEewIdULL7uL_image_2022-12-09_130104300.jpeg">
+In the NBA, a team's points, three-point shooting percentage, assists, and rebounds can shake down in many ways according to position. I analyzed how these different scoring metrics breaks down by team and position using a Tableau story. 
+
+---
+
 ### [The numbers prove that Zach Wilson's chances of turning around are minuscule](https://jetsxfactor.com/2022/10/31/ny-jets-concern-qb-position/)
 <img src="/images/Zach Wilson.jpg"/>
 Following the New York Jets' first loss to the New England Patriots in 2022, 22-17, I went back into NFL history from the last 20 years to explore what the data says about Zach Wilson's long-term prospects. The answer was grim, and it bore out in the fact that he was benched before completing his second season as the former No. 2 overall pick.
