@@ -32,7 +32,7 @@ In the NFL, draft picks are considered valuable commodities, especially first-ro
 
 ### [NBA Scoring Breakdown in Tableau](/files/nba_tableau_project.twb)
 <img src="images/C3OvG4WpQEewIdULL7uL_image_2022-12-09_130104300.jpeg">
-In the NBA, a team's points, three-point shooting percentage, assists, and rebounds can shake down in many ways according to position. I analyzed how these different scoring metrics breaks down by team and position using a Tableau story. 
+In the NBA, a team's points, three-point shooting percentage, assists, and rebounds can shake down in many ways according to position. I analyzed how these different scoring metrics break down by team and position using a Tableau story. 
 
 ---
 
